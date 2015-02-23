@@ -1,0 +1,14 @@
+{
+  "name": "wallaby-nodejs-example",
+  "version": "0.0.1",
+  "description": "Example of using wallaby.js with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "expect": "^1.6.0"
+  }
+}
